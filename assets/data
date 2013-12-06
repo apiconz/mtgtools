@@ -1,0 +1,496 @@
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(1,1,Coraje en la batalla,Instantáneo,1W,Common,Zack Stella,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(2,2,Pegaso de caballería,Criatura - Pegaso 1/1,1W,Common,Kev Walker,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+3,3,Arconte celestial,Criatura encantamiento - Arconte 4/4,3WW,Rare,Matt Stewart,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+4,4,Encadenado - las rocas,Encantamiento - Aura,W,Rare,Aaron Miller,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+5,5,Elegido por Heliod,Encantamiento - Aura,1W,Common,Zack Stella,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+6,6,Embestida intrépida,Instantáneo,2W,Uncommon,Peter Mohrbacher,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+7,7,Grifo engalanado,Criatura - Grifo 2/3,4W,Uncommon,Phill Simmer,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+8,8,Veredicto divino,Instantáneo,3W,Common,Raymond Swanland,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+9,9,"Elspeth, campeona del sol",Planeswalker - Elspeth (Loyalty: 4),4WW,Mythic Rare,Eric Deschamps,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+10,10,Protectora de Efara,Criatura - Clérigo humano 1/2,3W,Common,Zack Stella,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+11,11,Misionera de Heliod,Criatura - Clérigo humano 1/3,4WW,Uncommon,Nils Hamm,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+12,12,Héroe de leyendas,Criatura - Soldado humano 2/2,1WW,Rare,Aaron Miller,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+13,13,Hoplita favorito,Criatura - Soldado humano 1/2,W,Uncommon,Winona Nelson,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+14,14,Don de inmortalidad,Encantamiento - Aura,2W,Rare,Matt Stewart,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+15,15,Mirada herética,Conjuro,1W,Uncommon,Raymond Swanland,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+16,16,La voluntad de los dioses,Instantáneo,W,Common,Mark Winters,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+17,17,"Heliod, dios del sol",Criatura encantamiento legendaria - Deidad 5/6,3W,Mythic Rare,Jaime Jones,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+18,18,Emisario de Heliod,Criatura encantamiento - Alce 3/3,3W,Uncommon,Sam Burley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+19,19,Eidolón esperanzada,Criatura encantamiento - Espíritu 1/1,W,Common,Min Yum,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+20,20,El de las cien manos,Criatura - Gigante 3/5,2WW,Rare,Brad Rigney,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+21,21,Anciano del clan Lagonna,Criatura - Consejero centauro 3/2,2W,Common,Min Yum,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+22,22,Último aliento,Instantáneo,1W,Common,Nils Hamm,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+23,23,Trampero leonino,Criatura - Soldado felino 2/1,1W,Common,Kev Walker,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+24,24,Alseide observadora,Criatura encantamiento - Ninfa 2/2,2W,Common,Todd Lockwood,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+25,25,Ordalía de Heliod,Encantamiento - Aura,1W,Uncommon,Lucas Graciano,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+26,26,Líder de la Falange,Criatura - Soldado humano 1/1,WW,Uncommon,David Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+27,27,Rayo de disolución,Instantáneo,2W,Common,Terese Nielsen,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+28,28,Erudita de Atreos,Criatura - Clérigo humano 1/4,2W,Common,Cynthia Sheppard,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+29,29,Sacerdotisa guerrera setessana,Criatura - Clérigo humano 1/3,1W,Common,Wesley Burt,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+30,30,Grifo setessano,Criatura - Grifo 3/2,4W,Common,Greg Staples,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+31,31,Artesano sosegado,Criatura - Gigante 3/5,3WW,Common,Anthony Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+32,32,Soldado del panteón,Criatura - Soldado humano 2/1,W,Rare,Eric Deschamps,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+33,33,Lanza de Heliod,Artefacto encantamiento legendario,1WW,Rare,Yeong-Hao Han,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+34,34,Filósofa nómada,Criatura - Consejero humano 2/2,1W,Common,James Ryman,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+35,35,Sojuzgar - los impuros,Conjuro,5W,Uncommon,Eric Deschamps,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+36,36,Jinete del corcel alado,Criatura - Caballero humano 2/2,1WW,Common,Cynthia Sheppard,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+37,37,Buey sometido,Criatura - Buey 0/4,W,Common,Ryan Yee,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+38,38,Anular,Instantáneo,U,Common,Christine Choi,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+39,39,Forma acuosa,Encantamiento - Aura,U,Common,Slawomir Maniak,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+40,40,Artesana de las formas,Criatura - Hechicero humano 1/1,1U,Rare,Min Yum,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+41,41,Gigante bentónico,Criatura - Gigante 4/5,5U,Common,Jaime Jones,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+42,42,Bidente de Tassa,Artefacto encantamiento legendario,2UU,Rare,Yeong-Hao Han,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+43,43,Hipocampo quebrantador,Criatura - Pez caballo 3/2,3U,Common,Christopher Burdett,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+44,44,Quimera costera,Criatura - Quimera 1/5,3U,Common,Dan Scott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+45,45,Tritónido crepitante,Criatura - Hechicero tritón 2/3,2U,Common,Greg Staples,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+46,46,Maldición porcina,Conjuro,XUU,Rare,James Ryman,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+47,47,Diluir,Instantáneo,1UU,Uncommon,Wesley Burt,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+48,48,Destino revelado,Encantamiento - Aura,1U,Common,Dan Scott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+49,49,Contradecir,Instantáneo,1U,Uncommon,Clint Cearley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+50,50,Sujetamarea,Instantáneo,3U,Common,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+51,51,Erudito del horizonte,Criatura - Esfinge 4/4,5U,Uncommon,Karl Kopinski,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+52,52,Perdido en el laberinto,Instantáneo,U,Common,Winona Nelson,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+53,53,Maestro de las olas,Criatura - Hechicero tritón 2/1,3U,Mythic Rare,Karl Kopinski,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+54,54,Embaucador meletiano,Criatura - Hechicero humano 2/3,2U,Rare,Jason A. Engle,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+55,55,Muro mnemónico,Criatura - Muro 0/4,4U,Common,Trevor Claxton,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+56,56,N yade del nimbo,Criatura encantamiento - Ninfa 2/2,2U,Common,David Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+57,57,Presagiadora,Criatura - Hechicero humano 1/3,1U,Common,Dallas Williams,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+58,58,Ordalía de Tassa,Encantamiento - Aura,1U,Uncommon,Howard Lyon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+59,59,Quimera clarividente,Criatura - Quimera 3/4,3UU,Common,Daarken,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+60,60,Esfinge adivina,Criatura - Esfinge 3/5,3UU,Rare,Steve Prescott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+61,61,Venganza de la diosa del mar,Conjuro,5U,Uncommon,Eric Velhagen,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+62,62,Monstruo de la prisión acu tica,Criatura - Pulpo 5/5,3UU,Uncommon,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+63,63,Kraken rompenavíos,Criatura - Kraken 6/6,4UU,Rare,Jack Wang,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+64,64,Esperanzas truncadas,Instantáneo,1U,Common,Peter Mohrbacher,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+65,65,Canción del cisne,Instantáneo,U,Rare,Peter Mohrbacher,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+66,66,"Tassa, diosa del mar",Criatura encantamiento legendaria - Deidad 5/5,2U,Mythic Rare,Jason Chan,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+67,67,Regalo de Tassa,Conjuro,5U,Common,Ryan Yee,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+68,68,Emisario de Tassa,Criatura encantamiento - Cangrejo 3/3,3U,Uncommon,Sam Burley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+69,69,Tritónido cazafortuna,Criatura - Soldado tritón 2/2,2U,Uncommon,Clint Cearley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+70,70,Tritónido acechacostas,Criatura - Bribón tritón 1/2,U,Common,Howard Lyon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+71,71,T cticas de los tritónidos,Instantáneo,U,Uncommon,Jack Wang,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+72,72,Vaporosa,Criatura - Elemental 2/1,1U,Common,Seb McKinnon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+73,73,Fin del viaje,Instantáneo,1U,Common,Chris Rahn,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+74,74,Tritónido rompeolas,Criatura - Hechicero tritón 1/4,2U,Common,Ryan Barger,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+75,75,Jefe supremo aberrante,Criatura - Demonio 6/6,5BB,Rare,Slawomir Maniak,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+76,76,Agente de las Moiras,Criatura - Asesino humano 3/2,1BB,Rare,Matt Stewart,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+77,77,Vagabundo de Asfodel,Criatura - Soldado esqueleto 1/1,B,Common,Scott Chou,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+78,78,Eidolón maléfico,Criatura encantamiento - Espíritu 1/1,1B,Common,Min Yum,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+79,79,Arpía anunciasangre,Criatura - Arpía 2/1,2B,Common,Kev Walker,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+80,80,D diva de Erebos,Instantáneo,B,Common,James Ryman,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+81,81,Lampa de la caverna,Criatura encantamiento - Ninfa 2/2,3B,Common,Volkan Baga,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+82,82,Maniobra despiadada,Instantáneo,3B,Uncommon,Brad Rigney,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+83,83,Traición oscura,Instantáneo,B,Uncommon,Nils Hamm,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+84,84,Discípulo de Fenax,Criatura - Clérigo humano 1/3,2BB,Common,John Severin Brassell,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+85,85,"Erebos, dios de los muertos",Criatura encantamiento legendaria - Deidad 5/7,3B,Mythic Rare,Peter Mohrbacher,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+86,86,Emisario de Erebos,Criatura encantamiento - Víbora 3/3,3B,Uncommon,Sam Burley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+87,87,Minotauro pielacre,Criatura - Minotauro 2/3,2B,Common,Kev Walker,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+88,88,Corcel engullecarne,Criatura - Caballo 2/2,1B,Common,Robbie Trevino,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+89,89,Comerciante plomizo de Asfodel,Criatura - Zombie 2/4,3BB,Common,Robbie Trevino,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+90,90,La caída del héroe,Instantáneo,1BB,Rare,Ryan Pancoast,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+91,91,"Hytonia, la cruel",Criatura legendaria - Gorgona 4/6,4BB,Mythic Rare,Chris Rahn,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+92,92,Arpía insaciable,Criatura - Arpía 2/2,2BB,Uncommon,Matt Stewart,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+93,93,Gorgona de los recuerdos,Criatura - Gorgona 2/5,3BB,Uncommon,Aaron Miller,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+94,94,Restallido de l tigo,Instantáneo,4B,Common,Dan Scott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+95,95,Catóblepon abominable,Criatura - Bestia 3/3,5B,Common,Christopher Burdett,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+96,96,Marcha de los Resurgidos,Conjuro,3B,Common,Mark Zug,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+97,97,Merodeador de Mogis,Criatura - Berserker humano 2/2,2B,Uncommon,Chase Stone,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+98,98,Aullador nocturno,Criatura encantamiento - Horror 0/0,1BB,Rare,Nils Hamm,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+99,99,Ordalía de Erebos,Encantamiento - Aura,1B,Uncommon,Tyler Jacobson,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+100,100,Cura de Farika,Instantáneo,BB,Common,Igor Kieryluk,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+101,101,Lectura de huesos,Conjuro,2B,Common,Lars Grant-West,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+102,102,Rescate del Inframundo,Instantáneo,4B,Uncommon,Raymond Swanland,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+103,103,Centauro resurgido,Criatura - Centauro zombie 2/4,3B,Common,Lucas Graciano,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+104,104,Falange resurgida,Criatura - Soldado zombie 3/3,1B,Common,Seb McKinnon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+105,105,Marca del azote,Encantamiento - Aura,1B,Common,Franz Vohwinkel,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+106,106,Sorbo de cicuta,Conjuro,4BB,Common,Nils Hamm,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+107,107,Confiscar pensamientos,Conjuro,B,Rare,Lucas Graciano,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+108,108,Héroe atormentado,Criatura - Guerrero humano 2/1,B,Uncommon,Winona Nelson,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+109,109,Beso viperino,Encantamiento - Aura,B,Common,Svetlin Velinov,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+110,110,L tigo de Erebos,Artefacto encantamiento legendario,2BB,Rare,Yeong-Hao Han,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+111,111,Cruzado akroniense,Criatura - Soldado humano 1/1,R,Common,Johann Bodin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+112,112,Cólera de los dioses,Conjuro,1RR,Rare,Noah Bradley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+113,113,Atleta de la arena,Criatura - Humano 2/1,1R,Uncommon,Jason Chan,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+114,114,Minotauro fronterizo,Criatura - Guerrero minotauro 4/3,2RR,Common,Greg Staples,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+115,115,Desprendimiento de rocas,Instantáneo,6RR,Common,Ralph Horsley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+116,116,Asalto coordinado,Instantáneo,R,Uncommon,John Severin Brassell,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+117,117,Incursor rugidomortal,Criatura - Berserker minotauro 2/3,1R,Common,Wayne Reynolds,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+118,118,Demoler,Conjuro,3R,Common,Volkan Baga,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+119,119,Manto de dragón,Encantamiento - Aura,R,Common,Anthony Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+120,120,Devorador de brasa,Criatura - Elemental 4/5,2RR,Rare,Slawomir Maniak,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+121,121,Fan tico de Mogis,Criatura - Chamán minotauro 4/2,3R,Uncommon,Matt Stewart,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+122,122,S tiro bebefuego,Criatura - Chamán s tiro 2/1,R,Rare,Anthony Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+123,123,Perita de las llamas,Criatura - Chamán humano 2/3,2R,Uncommon,Lucas Graciano,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+124,124,Martillo de Purforos,Artefacto encantamiento legendario,1RR,Rare,Yeong-Hao Han,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+125,125,Cíclope malhumorado,Criatura - Cíclope 3/3,3R,Common,Peter Mohrbacher,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+126,126,Campeón del laberinto,Criatura - Guerrero humano 2/2,3R,Rare,Chase Stone,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+127,127,Descarga de rayos,Instantáneo,1R,Common,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+128,128,Brote de magma,Instantáneo,1R,Uncommon,Maciej Kuciara,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+129,129,Velocidad de mensajero,Encantamiento - Aura,R,Common,Clint Cearley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+130,130,Minotauro destrozacr neos,Criatura - Berserker minotauro 2/2,2R,Common,Phill Simmer,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+131,131,Ordalía de Purforos,Encantamiento - Aura,1R,Uncommon,Maciej Kuciara,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+132,132,Erupción de la cima,Conjuro,2R,Uncommon,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+133,133,Portento de la traición,Conjuro,3R,Common,Daarken,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+134,134,Sacerdotisa de Iroas,Criatura - Clérigo humano 1/1,R,Common,Clint Cearley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+135,135,"Purforos, dios de la fragua",Criatura encantamiento legendaria - Deidad 6/5,3R,Mythic Rare,Eric Deschamps,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+136,136,Emisario de Purforos,Criatura encantamiento - Buey 3/3,3R,Uncommon,Sam Burley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+137,137,Ira de Purforos,Conjuro,4R,Common,Mathias Kollros,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+138,138,Chamán furiasangrienta,Criatura - Chamán minotauro 2/3,1RR,Rare,Mike Bierek,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+139,139,Excursionista s tiro,Criatura - S tiro 2/1,1R,Common,John Stanko,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+140,140,Chispazo,Instantáneo,R,Common,Mike Bierek,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+141,141,Oréade puntalanza,Criatura encantamiento - Ninfa 2/2,2R,Common,Todd Lockwood,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+142,142,Gigante sacudepiedras,Criatura - Gigante 5/4,3RR,Uncommon,Lars Grant-West,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+143,143,Dragón aliento de tormenta,Criatura - Dragón 4/4,3RR,Mythic Rare,Slawomir Maniak,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+144,144,Tit n del fuego eterno,Criatura - Gigante 5/6,5R,Rare,Aleksi Briclot,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+145,145,Fuerza tit nica,Instantáneo,R,Common,Karl Kopinski,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+146,146,Cerbero de dos cabezas,Criatura - Perro 1/2,1RR,Common,Karl Kopinski,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+147,147,Celebrantes salvajes,Criatura - S tiro 5/3,3RR,Common,Igor Kieryluk,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+148,148,Agente de los horizontes,Criatura - Bribón humano 3/2,2G,Common,Clint Cearley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+149,149,"Anthousa, heroína setessana",Criatura legendaria - Guerrero humano 4/5,3GG,Rare,Howard Lyon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+150,150,Coloso enramado,Criatura - Gigante 6/6,2GGG,Rare,Jaime Jones,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+151,151,Lamento del artesano,Instantáneo,3G,Uncommon,Jung Park,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+152,152,S tiro de las d divas,Criatura encantamiento - S tiro 4/2,1GG,Rare,Wesley Burt,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+153,153,Arco de Nylea,Artefacto encantamiento legendario,1GG,Rare,Yeong-Hao Han,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+154,154,Maestro de guerra centauro,Criatura - Guerrero centauro 3/3,3GG,Uncommon,Kev Walker,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+155,155,En comunión con los dioses,Conjuro,1G,Common,Aleksi Briclot,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+156,156,Defensa del hogar,Instantáneo,1G,Common,Raymond Swanland,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+157,157,Desvanecerse en la antigedad,Conjuro,2G,Common,Noah Bradley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+158,158,Invocación feral,Encantamiento - Aura,2G,Common,Mathias Kollros,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+159,159,Cazador cazado,Conjuro,G,Uncommon,Ryan Barger,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+160,160,Acólita de Karametra,Criatura - Druida humano 1/4,3G,Uncommon,Chase Stone,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+161,161,Dríada coronarbórea,Criatura encantamiento - Dríada ninfa 2/2,1G,Common,Volkan Baga,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+162,162,Hidra hendeniebla,Criatura - Hidra 0/0,XG,Rare,Ryan Pancoast,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+163,163,Némesis de los mortales,Criatura - Víbora 5/5,4GG,Uncommon,Mathias Kollros,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+164,164,µspid nessiano,Criatura - Víbora 4/5,4G,Common,Alex Horley-Orlandelli,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+165,165,Cazador nessiano,Criatura - Guerrero centauro 3/3,2G,Common,Steve Prescott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+166,166,"Nylea, diosa de la caza",Criatura encantamiento legendaria - Deidad 6/6,3G,Mythic Rare,Chris Rahn,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+167,167,Discípula de Nylea,Criatura - Arquero centauro 3/3,2GG,Common,Trevor Claxton,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+168,168,Emisaria de Nylea,Criatura encantamiento - Felino 3/3,3G,Uncommon,Sam Burley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+169,169,Presencia de Nylea,Encantamiento - Aura,1G,Common,Ralph Horsley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+170,170,Ordalía de Nylea,Encantamiento - Aura,1G,Uncommon,David Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+171,171,Centauros del clan Feres,Criatura - Guerrero centauro 3/7,4G,Common,Mark Winters,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+172,172,"Polukranos, el devoramundos",Criatura legendaria - Hidra 5/5,2GG,Mythic Rare,Johann Bodin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+173,173,Cazador reverente,Criatura - Arquero humano 1/1,2G,Rare,Wesley Burt,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+174,174,S tiro hedonista,Criatura - S tiro 2/1,1G,Common,Chase Stone,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+175,175,S tiro flautista,Criatura - Bribón s tiro 2/1,2G,Uncommon,Christopher Moeller,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+176,176,Oleada salvaje,Instantáneo,1G,Common,Jasper Sandner,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+177,177,Escorpión de los juncos,Criatura - Escorpión 1/1,G,Common,John Stanko,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+178,178,Vientos huracanados,Instantáneo,2G,Common,Christopher Moeller,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+179,179,Guerrera acérrima,Criatura - Guerrero humano 2/2,3G,Common,Greg Staples,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+180,180,Cari tide silvana,Criatura - Planta 0/3,1G,Rare,Chase Stone,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+181,181,Hora de cenar,Conjuro,2G,Common,Wayne Reynolds,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+182,182,S tiro viajero,Criatura - Druida s tiro 1/2,1G,Common,Tyler Jacobson,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+183,183,Goliat vulpino,Criatura - Zorro 6/5,4GG,Common,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+184,184,La lección de los guerreros,Instantáneo,G,Uncommon,Steve Prescott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+185,185,Hoplita akroniense,Criatura - Soldado humano 1/2,WR,Uncommon,Igor Kieryluk,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+186,186,Anax - Cymeda,Criatura legendaria - Soldado humano 3/2,1WR,Rare,Willian Murai,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+187,187,Jinete cinérea,Criatura - Arconte 5/5,4WWBB,Mythic Rare,Chris Rahn,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+188,188,"Ashiok, urdidor de pesadillas",Planeswalker - Ashiok (Loyalty: 3),1UB,Mythic Rare,Karla Ortiz,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+189,189,Hoplita batallasagaz,Criatura - Soldado humano 2/2,WU,Uncommon,Willian Murai,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+190,190,Cronista de los héroes,Criatura - Hechicero centauro 3/3,1WG,Uncommon,John Stanko,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+191,191,Daxos de Meletis,Criatura legendaria - Soldado humano 2/2,1WU,Rare,Karla Ortiz,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+192,192,Bacanal de destrucción,Instantáneo,RG,Uncommon,Kev Walker,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+193,193,León melena de lana,Criatura - Felino 3/3,WG,Rare,Slawomir Maniak,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+194,194,Quimera del horizonte,Criatura - Quimera 3/2,2UG,Uncommon,Sam Burley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+195,195,Llamaguerra de Kragma,Criatura - Guerrero minotauro 2/3,3BR,Uncommon,Gabor Szikszai,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+196,196,"Medomai, el inmortal",Criatura legendaria - Esfinge 4/4,4WU,Mythic Rare,David Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+197,197,Resucitadora de Farika,Criatura - Gorgona 4/3,3BG,Uncommon,Peter Mohrbacher,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+198,198,Aplastapolis,Criatura - Cíclope 4/4,2RG,Rare,Chase Stone,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+199,199,Profeta de Krufix,Criatura - Hechicero humano 2/3,3UG,Rare,Winona Nelson,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+200,200,Intrusión psíquica,Conjuro,3UB,Rare,Jaime Jones,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+201,201,Segadora de lo salvaje,Criatura - Gorgona 4/5,2BG,Rare,Karl Kopinski,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+202,202,Centinela del Inframundo,Criatura - Esqueleto grifo 3/3,3WB,Uncommon,Dave Kendall,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+203,203,Sirena de naufragios,Criatura - Sirena 1/2,UB,Uncommon,Daarken,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+204,204,Quimera almahechizada,Criatura - Quimera */3,1UR,Uncommon,Svetlin Velinov,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+205,205,Augurio de vapor,Instantáneo,2UR,Rare,Dave Kendall,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+206,206,Las Moiras,Criatura legendaria - Hechicero humano 3/3,2WB,Rare,Daarken,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+207,207,"Tymaret, el rey asesino",Criatura legendaria - Guerrero zombie 2/2,BR,Rare,Volkan Baga,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+208,208,Cerbero del Inframundo,Criatura - Perro 6/6,3BR,Mythic Rare,Svetlin Velinov,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+209,209,"Xenagos, el juerguista",Planeswalker - Xenagos (Loyalty: 3),2RG,Mythic Rare,Jason Chan,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+210,210,Caballo akroniense,Criatura artefacto - Caballo 0/4,4,Rare,Seb McKinnon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+211,211,Rapaz de metal forjado,Criatura artefacto - Ave 2/1,4,Uncommon,James Zapata,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+212,212,Marta de bronce,Criatura artefacto - Marta 2/1,2,Common,Jasper Sandner,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+213,213,Venado bruñido,Criatura artefacto - Alce 2/2,3,Uncommon,Yeong-Hao Han,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+214,214,Coloso de Akros,Criatura artefacto - Gólem 10/10,8,Rare,Zack Stella,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+215,215,Rueda flamígera,Artefacto,1,Uncommon,Jasper Sandner,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+216,216,Sandalias de pluma veloz,Artefacto - Equipo,2,Common,Steve Prescott,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+217,217,Guardianes de Meletis,Criatura artefacto - Gólem 0/6,3,Common,Magali Villeneuve,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+218,218,Unicornio de opalina,Criatura artefacto - Unicornio 1/2,3,Common,Christine Choi,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+219,219,Yelmo de rondador,Artefacto - Equipo,2,Uncommon,Igor Kieryluk,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+220,220,Pyxis del pandemónium,Artefacto,1,Rare,David Palumbo,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+221,221,Amuleto del viajero,Artefacto,1,Common,Franz Vohwinkel,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+222,222,Ojo de las Grayas,Artefacto - Equipo,1,Uncommon,Daniel Ljunggren,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+223,223,"Nyktos, altar de Nyx",Tierra legendaria,,Rare,Jung Park,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+224,224,Templo del abandono,Tierra,,Rare,Mike Bierek,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+225,225,Templo del engaño,Tierra,,Rare,Raymond Swanland,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+226,226,Templo del misterio,Tierra,,Rare,Noah Bradley,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+227,227,Templo del silencio,Tierra,,Rare,Karl Kopinski,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+228,228,Templo del triunfo,Tierra,,Rare,Jason Felix,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+229,229,Costas desconocidas,Tierra,,Common,Seb McKinnon,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+230,230,Llanura,Tierra básica - Llanura,,Land,Rob Alexander,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+231,231,Llanura,Tierra básica - Llanura,,Land,Steven Belledin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+232,232,Llanura,Tierra básica - Llanura,,Land,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+233,233,Llanura,Tierra básica - Llanura,,Land,Raoul Vitale,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+234,234,Isla,Tierra básica - Isla,,Land,Rob Alexander,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+235,235,Isla,Tierra básica - Isla,,Land,Steven Belledin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+236,236,Isla,Tierra básica - Isla,,Land,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+237,237,Isla,Tierra básica - Isla,,Land,Raoul Vitale,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+238,238,Pantano,Tierra básica - Pantano,,Land,Rob Alexander,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+239,239,Pantano,Tierra básica - Pantano,,Land,Steven Belledin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+240,240,Pantano,Tierra básica - Pantano,,Land,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+241,241,Pantano,Tierra básica - Pantano,,Land,Raoul Vitale,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+242,242,Montaña,Tierra básica - Montaña,,Land,Rob Alexander,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+243,243,Montaña,Tierra básica - Montaña,,Land,Steven Belledin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+244,244,Montaña,Tierra básica - Montaña,,Land,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+245,245,Montaña,Tierra básica - Montaña,,Land,Raoul Vitale,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+246,246,Bosque,Tierra básica - Bosque,,Land,Rob Alexander,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+247,247,Bosque,Tierra básica - Bosque,,Land,Steven Belledin,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+248,248,Bosque,Tierra básica - Bosque,,Land,Adam Paquette,Theros);
+insert into table_card(id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition) values(
+249,249,Bosque,Tierra básica - Bosque,,Land,Raoul Vitale,Theros);
