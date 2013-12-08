@@ -14,6 +14,8 @@ public class SplashScreen extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_splash);
 
+		new BDHelper(this);
+		
 		new Handler().postDelayed(new Runnable() {
 
 			/*

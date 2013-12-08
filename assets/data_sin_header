@@ -1,3 +1,4 @@
+id,card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition
 1,1,Coraje en la batalla,Instantáneo,1W,Common,Zack Stella,Theros
 2,2,Pegaso de caballería,Criatura - Pegaso 1/1,1W,Common,Kev Walker,Theros
 3,3,Arconte celestial,Criatura encantamiento - Arconte 4/4,3WW,Rare,Matt Stewart,Theros

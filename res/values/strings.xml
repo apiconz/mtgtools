@@ -3,6 +3,16 @@
 
     <string name="app_name">MTG Tools</string>
     <string name="action_settings">Settings</string>
+    <string name="action_aboutme">Acerca de</string>
     <string name="hello_world">Hello world!</string>
 
+	 <string name="card_detail_name">Nombre de la Carta</string>
+	 <string name="card_detail_mana">Costo de Mana</string>
+	 <string name="card_detail_type">Tipos</string>
+	 <string name="card_detail_text">Texto de la carta</string>
+	 <string name="card_detail_number">Número de Carta</string>
+	 <string name="card_detail_artist">Artista</string>
+	 <string name="card_detail_rarity">Rareza</string>
+	 <string name="card_detail_expansion">Expansión</string>   
+    
 </resources>
