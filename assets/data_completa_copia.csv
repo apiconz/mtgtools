@@ -1,0 +1,250 @@
+_id;card_edition;card_number;card_title;card_type;card_mana;card_converted_cost;card_rarity;card_artist;card_image_url
+1;Theros;1;Coraje en la batalla;Instantáneo;1W;2;Common;Zack Stella;http://magiccards.info/scans/en/ths/1.jpg
+2;Theros;2;Pegaso de caballería;Criatura - Pegaso 1/1;1W;2;Common;Kev Walker;http://magiccards.info/scans/en/ths/2.jpg
+3;Theros;3;Arconte celestial;Criatura encantamiento - Arconte 4/4;3WW;5;Rare;Matt Stewart;http://magiccards.info/scans/en/ths/3.jpg
+4;Theros;4;Encadenado a las rocas;Encantamiento - Aura;W;1;Rare;Aaron Miller;http://magiccards.info/scans/en/ths/4.jpg
+5;Theros;5;Elegido por Heliod;Encantamiento - Aura;1W;2;Common;Zack Stella;http://magiccards.info/scans/en/ths/5.jpg
+6;Theros;6;Embestida intrépida;Instantáneo;2W;3;Uncommon;Peter Mohrbacher;http://magiccards.info/scans/en/ths/6.jpg
+7;Theros;7;Grifo engalanado;Criatura - Grifo 2/3;4W;5;Uncommon;Phill Simmer;http://magiccards.info/scans/en/ths/7.jpg
+8;Theros;8;Veredicto divino;Instantáneo;3W;4;Common;Raymond Swanland;http://magiccards.info/scans/en/ths/8.jpg
+9;Theros;9;Elspeth, campeona del sol;Planeswalker - Elspeth (Loyalty: 4);4WW;6;Mythic Rare;Eric Deschamps;http://magiccards.info/scans/en/ths/9.jpg
+10;Theros;10;Protectora de Efara;Criatura - Clérigo humano 1/2;3W;4;Common;Zack Stella;http://magiccards.info/scans/en/ths/10.jpg
+11;Theros;11;Misionera de Heliod;Criatura - Clérigo humano 1/3;4WW;6;Uncommon;Nils Hamm;http://magiccards.info/scans/en/ths/11.jpg
+12;Theros;12;Héroe de leyendas;Criatura - Soldado humano 2/2;1WW;3;Rare;Aaron Miller;http://magiccards.info/scans/en/ths/12.jpg
+13;Theros;13;Hoplita favorito;Criatura - Soldado humano 1/2;W;1;Uncommon;Winona Nelson;http://magiccards.info/scans/en/ths/13.jpg
+14;Theros;14;Don de inmortalidad;Encantamiento - Aura;2W;3;Rare;Matt Stewart;http://magiccards.info/scans/en/ths/14.jpg
+15;Theros;15;Mirada herética;Conjuro;1W;2;Uncommon;Raymond Swanland;http://magiccards.info/scans/en/ths/15.jpg
+16;Theros;16;La voluntad de los dioses;Instantáneo;W;1;Common;Mark Winters;http://magiccards.info/scans/en/ths/16.jpg
+17;Theros;17;Heliod, dios del sol;Criatura encantamiento legendaria - Deidad 5/6;3W;4;Mythic Rare;Jaime Jones;http://magiccards.info/scans/en/ths/17.jpg
+18;Theros;18;Emisario de Heliod;Criatura encantamiento - Alce 3/3;3W;4;Uncommon;Sam Burley;http://magiccards.info/scans/en/ths/18.jpg
+19;Theros;19;Eidolón esperanzada;Criatura encantamiento - Espíritu 1/1;W;1;Common;Min Yum;http://magiccards.info/scans/en/ths/19.jpg
+20;Theros;20;El de las cien manos;Criatura - Gigante 3/5;2WW;4;Rare;Brad Rigney;http://magiccards.info/scans/en/ths/20.jpg
+21;Theros;21;Anciano del clan Lagonna;Criatura - Consejero centauro 3/2;2W;3;Common;Min Yum;http://magiccards.info/scans/en/ths/21.jpg
+22;Theros;22;Último aliento;Instantáneo;1W;2;Common;Nils Hamm;http://magiccards.info/scans/en/ths/22.jpg
+23;Theros;23;Trampero leonino;Criatura - Soldado felino 2/1;1W;2;Common;Kev Walker;http://magiccards.info/scans/en/ths/23.jpg
+24;Theros;24;Alseide observadora;Criatura encantamiento - Ninfa 2/2;2W;3;Common;Todd Lockwood;http://magiccards.info/scans/en/ths/24.jpg
+25;Theros;25;Ordalía de Heliod;Encantamiento - Aura;1W;2;Uncommon;Lucas Graciano;http://magiccards.info/scans/en/ths/25.jpg
+26;Theros;26;Líder de la Falange;Criatura - Soldado humano 1/1;WW;2;Uncommon;David Palumbo;http://magiccards.info/scans/en/ths/26.jpg
+27;Theros;27;Rayo de disolución;Instantáneo;2W;3;Common;Terese Nielsen;http://magiccards.info/scans/en/ths/27.jpg
+28;Theros;28;Erudita de Atreos;Criatura - Clérigo humano 1/4;2W;3;Common;Cynthia Sheppard;http://magiccards.info/scans/en/ths/28.jpg
+29;Theros;29;Sacerdotisa guerrera setessana;Criatura - Clérigo humano 1/3;1W;2;Common;Wesley Burt;http://magiccards.info/scans/en/ths/29.jpg
+30;Theros;30;Grifo setessano;Criatura - Grifo 3/2;4W;5;Common;Greg Staples;http://magiccards.info/scans/en/ths/30.jpg
+31;Theros;31;Artesano sosegado;Criatura - Gigante 3/5;3WW;5;Common;Anthony Palumbo;http://magiccards.info/scans/en/ths/31.jpg
+32;Theros;32;Soldado del panteón;Criatura - Soldado humano 2/1;W;1;Rare;Eric Deschamps;http://magiccards.info/scans/en/ths/32.jpg
+33;Theros;33;Lanza de Heliod;Artefacto encantamiento legendario;1WW;3;Rare;Yeong-Hao Han;http://magiccards.info/scans/en/ths/33.jpg
+34;Theros;34;Filósofa nómada;Criatura - Consejero humano 2/2;1W;2;Common;James Ryman;http://magiccards.info/scans/en/ths/34.jpg
+35;Theros;35;Sojuzgar - los impuros;Conjuro;5W;6;Uncommon;Eric Deschamps;http://magiccards.info/scans/en/ths/35.jpg
+36;Theros;36;Jinete del corcel alado;Criatura - Caballero humano 2/2;1WW;3;Common;Cynthia Sheppard;http://magiccards.info/scans/en/ths/36.jpg
+37;Theros;37;Buey sometido;Criatura - Buey 0/4;W;1;Common;Ryan Yee;http://magiccards.info/scans/en/ths/37.jpg
+38;Theros;38;Anular;Instantáneo;U;1;Common;Christine Choi;http://magiccards.info/scans/en/ths/38.jpg
+39;Theros;39;Forma acuosa;Encantamiento - Aura;U;1;Common;Slawomir Maniak;http://magiccards.info/scans/en/ths/39.jpg
+40;Theros;40;Artesana de las formas;Criatura - Hechicero humano 1/1;1U;2;Rare;Min Yum;http://magiccards.info/scans/en/ths/40.jpg
+41;Theros;41;Gigante bentónico;Criatura - Gigante 4/5;5U;6;Common;Jaime Jones;http://magiccards.info/scans/en/ths/41.jpg
+42;Theros;42;Bidente de Tassa;Artefacto encantamiento legendario;2UU;4;Rare;Yeong-Hao Han;http://magiccards.info/scans/en/ths/42.jpg
+43;Theros;43;Hipocampo quebrantador;Criatura - Pez caballo 3/2;3U;4;Common;Christopher Burdett;http://magiccards.info/scans/en/ths/43.jpg
+44;Theros;44;Quimera costera;Criatura - Quimera 1/5;3U;4;Common;Dan Scott;http://magiccards.info/scans/en/ths/44.jpg
+45;Theros;45;Tritónido crepitante;Criatura - Hechicero tritón 2/3;2U;3;Common;Greg Staples;http://magiccards.info/scans/en/ths/45.jpg
+46;Theros;46;Maldición porcina;Conjuro;XUU;;Rare;James Ryman;http://magiccards.info/scans/en/ths/46.jpg
+47;Theros;47;Diluir;Instantáneo;1UU;3;Uncommon;Wesley Burt;http://magiccards.info/scans/en/ths/47.jpg
+48;Theros;48;Destino revelado;Encantamiento - Aura;1U;2;Common;Dan Scott;http://magiccards.info/scans/en/ths/48.jpg
+49;Theros;49;Contradecir;Instantáneo;1U;2;Uncommon;Clint Cearley;http://magiccards.info/scans/en/ths/49.jpg
+50;Theros;50;Sujetamarea;Instantáneo;3U;4;Common;Adam Paquette;http://magiccards.info/scans/en/ths/50.jpg
+51;Theros;51;Erudito del horizonte;Criatura - Esfinge 4/4;5U;6;Uncommon;Karl Kopinski;http://magiccards.info/scans/en/ths/51.jpg
+52;Theros;52;Perdido en el laberinto;Instantáneo;U;1;Common;Winona Nelson;http://magiccards.info/scans/en/ths/52.jpg
+53;Theros;53;Maestro de las olas;Criatura - Hechicero tritón 2/1;3U;4;Mythic Rare;Karl Kopinski;http://magiccards.info/scans/en/ths/53.jpg
+54;Theros;54;Embaucador meletiano;Criatura - Hechicero humano 2/3;2U;3;Rare;Jason A. Engle;http://magiccards.info/scans/en/ths/54.jpg
+55;Theros;55;Muro mnemónico;Criatura - Muro 0/4;4U;5;Common;Trevor Claxton;http://magiccards.info/scans/en/ths/55.jpg
+56;Theros;56;Náyade del nimbo;Criatura encantamiento - Ninfa 2/2;2U;3;Common;David Palumbo;http://magiccards.info/scans/en/ths/56.jpg
+57;Theros;57;Presagiadora;Criatura - Hechicero humano 1/3;1U;2;Common;Dallas Williams;http://magiccards.info/scans/en/ths/57.jpg
+58;Theros;58;Ordalía de Tassa;Encantamiento - Aura;1U;2;Uncommon;Howard Lyon;http://magiccards.info/scans/en/ths/58.jpg
+59;Theros;59;Quimera clarividente;Criatura - Quimera 3/4;3UU;5;Common;Daarken;http://magiccards.info/scans/en/ths/59.jpg
+60;Theros;60;Esfinge adivina;Criatura - Esfinge 3/5;3UU;5;Rare;Steve Prescott;http://magiccards.info/scans/en/ths/60.jpg
+61;Theros;61;Venganza de la diosa del mar;Conjuro;5U;6;Uncommon;Eric Velhagen;http://magiccards.info/scans/en/ths/61.jpg
+62;Theros;62;Monstruo de la prisión acuática;Criatura - Pulpo 5/5;3UU;5;Uncommon;Adam Paquette;http://magiccards.info/scans/en/ths/62.jpg
+63;Theros;63;Kraken rompenavíos;Criatura - Kraken 6/6;4UU;6;Rare;Jack Wang;http://magiccards.info/scans/en/ths/63.jpg
+64;Theros;64;Esperanzas truncadas;Instantáneo;1U;2;Common;Peter Mohrbacher;http://magiccards.info/scans/en/ths/64.jpg
+65;Theros;65;Canción del cisne;Instantáneo;U;1;Rare;Peter Mohrbacher;http://magiccards.info/scans/en/ths/65.jpg
+66;Theros;66;Tassa, diosa del mar;Criatura encantamiento legendaria - Deidad 5/5;2U;3;Mythic Rare;Jason Chan;http://magiccards.info/scans/en/ths/66.jpg
+67;Theros;67;Regalo de Tassa;Conjuro;5U;6;Common;Ryan Yee;http://magiccards.info/scans/en/ths/67.jpg
+68;Theros;68;Emisario de Tassa;Criatura encantamiento - Cangrejo 3/3;3U;4;Uncommon;Sam Burley;http://magiccards.info/scans/en/ths/68.jpg
+69;Theros;69;Tritónido cazafortuna;Criatura - Soldado tritón 2/2;2U;3;Uncommon;Clint Cearley;http://magiccards.info/scans/en/ths/69.jpg
+70;Theros;70;Tritónido acechacostas;Criatura - Bribón tritón 1/2;U;1;Common;Howard Lyon;http://magiccards.info/scans/en/ths/70.jpg
+71;Theros;71;Tácticas de los tritónidos;Instantáneo;U;1;Uncommon;Jack Wang;http://magiccards.info/scans/en/ths/71.jpg
+72;Theros;72;Vaporosa;Criatura - Elemental 2/1;1U;2;Common;Seb McKinnon;http://magiccards.info/scans/en/ths/72.jpg
+73;Theros;73;Fin del viaje;Instantáneo;1U;2;Common;Chris Rahn;http://magiccards.info/scans/en/ths/73.jpg
+74;Theros;74;Tritónido rompeolas;Criatura - Hechicero tritón 1/4;2U;3;Common;Ryan Barger;http://magiccards.info/scans/en/ths/74.jpg
+75;Theros;75;Jefe supremo aberrante;Criatura - Demonio 6/6;5BB;7;Rare;Slawomir Maniak;http://magiccards.info/scans/en/ths/75.jpg
+76;Theros;76;Agente de las Moiras;Criatura - Asesino humano 3/2;1BB;3;Rare;Matt Stewart;http://magiccards.info/scans/en/ths/76.jpg
+77;Theros;77;Vagabundo de Asfodel;Criatura - Soldado esqueleto 1/1;B;1;Common;Scott Chou;http://magiccards.info/scans/en/ths/77.jpg
+78;Theros;78;Eidolón maléfico;Criatura encantamiento - Espíritu 1/1;1B;2;Common;Min Yum;http://magiccards.info/scans/en/ths/78.jpg
+79;Theros;79;Arpía anunciasangre;Criatura - Arpía 2/1;2B;3;Common;Kev Walker;http://magiccards.info/scans/en/ths/79.jpg
+80;Theros;80;Dádiva de Erebos;Instantáneo;B;1;Common;James Ryman;http://magiccards.info/scans/en/ths/80.jpg
+81;Theros;81;Lampa de la caverna;Criatura encantamiento - Ninfa 2/2;3B;4;Common;Volkan Baga;http://magiccards.info/scans/en/ths/81.jpg
+82;Theros;82;Maniobra despiadada;Instantáneo;3B;4;Uncommon;Brad Rigney;http://magiccards.info/scans/en/ths/82.jpg
+83;Theros;83;Traición oscura;Instantáneo;B;1;Uncommon;Nils Hamm;http://magiccards.info/scans/en/ths/83.jpg
+84;Theros;84;Discípulo de Fenax;Criatura - Clérigo humano 1/3;2BB;4;Common;John Severin Brassell;http://magiccards.info/scans/en/ths/84.jpg
+85;Theros;85;Erebos, dios de los muertos;Criatura encantamiento legendaria - Deidad 5/7;3B;4;Mythic Rare;Peter Mohrbacher;http://magiccards.info/scans/en/ths/85.jpg
+86;Theros;86;Emisario de Erebos;Criatura encantamiento - Víbora 3/3;3B;4;Uncommon;Sam Burley;http://magiccards.info/scans/en/ths/86.jpg
+87;Theros;87;Minotauro pielacre;Criatura - Minotauro 2/3;2B;3;Common;Kev Walker;http://magiccards.info/scans/en/ths/87.jpg
+88;Theros;88;Corcel engullecarne;Criatura - Caballo 2/2;1B;2;Common;Robbie Trevino;http://magiccards.info/scans/en/ths/88.jpg
+89;Theros;89;Comerciante plomizo de Asfodel;Criatura - Zombie 2/4;3BB;5;Common;Robbie Trevino;http://magiccards.info/scans/en/ths/89.jpg
+90;Theros;90;La caída del héroe;Instantáneo;1BB;3;Rare;Ryan Pancoast;http://magiccards.info/scans/en/ths/90.jpg
+91;Theros;91;Hytonia, la cruel;Criatura legendaria - Gorgona 4/6;4BB;6;Mythic Rare;Chris Rahn;http://magiccards.info/scans/en/ths/91.jpg
+92;Theros;92;Arpía insaciable;Criatura - Arpía 2/2;2BB;4;Uncommon;Matt Stewart;http://magiccards.info/scans/en/ths/92.jpg
+93;Theros;93;Gorgona de los recuerdos;Criatura - Gorgona 2/5;3BB;5;Uncommon;Aaron Miller;http://magiccards.info/scans/en/ths/93.jpg
+94;Theros;94;Restallido de látigo;Instantáneo;4B;5;Common;Dan Scott;http://magiccards.info/scans/en/ths/94.jpg
+95;Theros;95;Catóblepon abominable;Criatura - Bestia 3/3;5B;6;Common;Christopher Burdett;http://magiccards.info/scans/en/ths/95.jpg
+96;Theros;96;Marcha de los Resurgidos;Conjuro;3B;4;Common;Mark Zug;http://magiccards.info/scans/en/ths/96.jpg
+97;Theros;97;Merodeador de Mogis;Criatura - Berserker humano 2/2;2B;3;Uncommon;Chase Stone;http://magiccards.info/scans/en/ths/97.jpg
+98;Theros;98;Aullador nocturno;Criatura encantamiento - Horror 0/0;1BB;3;Rare;Nils Hamm;http://magiccards.info/scans/en/ths/98.jpg
+99;Theros;99;Ordalía de Erebos;Encantamiento - Aura;1B;2;Uncommon;Tyler Jacobson;http://magiccards.info/scans/en/ths/99.jpg
+100;Theros;100;Cura de Farika;Instantáneo;BB;2;Common;Igor Kieryluk;http://magiccards.info/scans/en/ths/100.jpg
+101;Theros;101;Lectura de huesos;Conjuro;2B;3;Common;Lars Grant-West;http://magiccards.info/scans/en/ths/101.jpg
+102;Theros;102;Rescate del Inframundo;Instantáneo;4B;6;Uncommon;Raymond Swanland;http://magiccards.info/scans/en/ths/102.jpg
+103;Theros;103;Centauro resurgido;Criatura - Centauro zombie 2/4;3B;4;Common;Lucas Graciano;http://magiccards.info/scans/en/ths/103.jpg
+104;Theros;104;Falange resurgida;Criatura - Soldado zombie 3/3;1B;2;Common;Seb McKinnon;http://magiccards.info/scans/en/ths/104.jpg
+105;Theros;105;Marca del azote;Encantamiento - Aura;1B;2;Common;Franz Vohwinkel;http://magiccards.info/scans/en/ths/105.jpg
+106;Theros;106;Sorbo de cicuta;Conjuro;4BB;6;Common;Nils Hamm;http://magiccards.info/scans/en/ths/106.jpg
+107;Theros;107;Confiscar pensamientos;Conjuro;B;1;Rare;Lucas Graciano;http://magiccards.info/scans/en/ths/107.jpg
+108;Theros;108;Héroe atormentado;Criatura - Guerrero humano 2/1;B;1;Uncommon;Winona Nelson;http://magiccards.info/scans/en/ths/108.jpg
+109;Theros;109;Beso viperino;Encantamiento - Aura;B;1;Common;Svetlin Velinov;http://magiccards.info/scans/en/ths/109.jpg
+110;Theros;110;Látigo de Erebos;Artefacto encantamiento legendario;2BB;4;Rare;Yeong-Hao Han;http://magiccards.info/scans/en/ths/110.jpg
+111;Theros;111;Cruzado akroniense;Criatura - Soldado humano 1/1;R;1;Common;Johann Bodin;http://magiccards.info/scans/en/ths/111.jpg
+112;Theros;112;Cólera de los dioses;Conjuro;1RR;3;Rare;Noah Bradley;http://magiccards.info/scans/en/ths/112.jpg
+113;Theros;113;Atleta de la arena;Criatura - Humano 2/1;1R;2;Uncommon;Jason Chan;http://magiccards.info/scans/en/ths/113.jpg
+114;Theros;114;Minotauro fronterizo;Criatura - Guerrero minotauro 4/3;2RR;4;Common;Greg Staples;http://magiccards.info/scans/en/ths/114.jpg
+115;Theros;115;Desprendimiento de rocas;Instantáneo;6RR;8;Common;Ralph Horsley;http://magiccards.info/scans/en/ths/115.jpg
+116;Theros;116;Asalto coordinado;Instantáneo;R;1;Uncommon;John Severin Brassell;http://magiccards.info/scans/en/ths/116.jpg
+117;Theros;117;Incursor rugidomortal;Criatura - Berserker minotauro 2/3;1R;2;Common;Wayne Reynolds;http://magiccards.info/scans/en/ths/117.jpg
+118;Theros;118;Demoler;Conjuro;3R;4;Common;Volkan Baga;http://magiccards.info/scans/en/ths/118.jpg
+119;Theros;119;Manto de dragón;Encantamiento - Aura;R;1;Common;Anthony Palumbo;http://magiccards.info/scans/en/ths/119.jpg
+120;Theros;120;Devorador de brasa;Criatura - Elemental 4/5;2RR;4;Rare;Slawomir Maniak;http://magiccards.info/scans/en/ths/120.jpg
+121;Theros;121;Fanático de Mogis;Criatura - Chamán minotauro 4/2;3R;4;Uncommon;Matt Stewart;http://magiccards.info/scans/en/ths/121.jpg
+122;Theros;122;Sátiro bebefuego;Criatura - Chamán s tiro 2/1;R;1;Rare;Anthony Palumbo;http://magiccards.info/scans/en/ths/122.jpg
+123;Theros;123;Perita de las llamas;Criatura - Chamán humano 2/3;2R;3;Uncommon;Lucas Graciano;http://magiccards.info/scans/en/ths/123.jpg
+124;Theros;124;Martillo de Purforos;Artefacto encantamiento legendario;1RR;3;Rare;Yeong-Hao Han;http://magiccards.info/scans/en/ths/124.jpg
+125;Theros;125;Cíclope malhumorado;Criatura - Cíclope 3/3;3R;4;Common;Peter Mohrbacher;http://magiccards.info/scans/en/ths/125.jpg
+126;Theros;126;Campeón del laberinto;Criatura - Guerrero humano 2/2;3R;4;Rare;Chase Stone;http://magiccards.info/scans/en/ths/126.jpg
+127;Theros;127;Descarga de rayos;Instantáneo;1R;2;Common;Adam Paquette;http://magiccards.info/scans/en/ths/127.jpg
+128;Theros;128;Brote de magma;Instantáneo;1R;2;Uncommon;Maciej Kuciara;http://magiccards.info/scans/en/ths/128.jpg
+129;Theros;129;Velocidad de mensajero;Encantamiento - Aura;R;1;Common;Clint Cearley;http://magiccards.info/scans/en/ths/129.jpg
+130;Theros;130;Minotauro destrozacr neos;Criatura - Berserker minotauro 2/2;2R;3;Common;Phill Simmer;http://magiccards.info/scans/en/ths/130.jpg
+131;Theros;131;Ordalía de Purforos;Encantamiento - Aura;1R;2;Uncommon;Maciej Kuciara;http://magiccards.info/scans/en/ths/131.jpg
+132;Theros;132;Erupción de la cima;Conjuro;2R;3;Uncommon;Adam Paquette;http://magiccards.info/scans/en/ths/132.jpg
+133;Theros;133;Portento de la traición;Conjuro;3R;4;Common;Daarken;http://magiccards.info/scans/en/ths/133.jpg
+134;Theros;134;Sacerdotisa de Iroas;Criatura - Clérigo humano 1/1;R;1;Common;Clint Cearley;http://magiccards.info/scans/en/ths/134.jpg
+135;Theros;135;Purforos, dios de la fragua;Criatura encantamiento legendaria - Deidad 6/5;3R;4;Mythic Rare;Eric Deschamps;http://magiccards.info/scans/en/ths/135.jpg
+136;Theros;136;Emisario de Purforos;Criatura encantamiento - Buey 3/3;3R;4;Uncommon;Sam Burley;http://magiccards.info/scans/en/ths/136.jpg
+137;Theros;137;Ira de Purforos;Conjuro;4R;5;Common;Mathias Kollros;http://magiccards.info/scans/en/ths/137.jpg
+138;Theros;138;Chamán furiasangrienta;Criatura - Chamán minotauro 2/3;1RR;3;Rare;Mike Bierek;http://magiccards.info/scans/en/ths/138.jpg
+139;Theros;139;Excursionista sátiro;Criatura - Sátiro 2/1;1R;2;Common;John Stanko;http://magiccards.info/scans/en/ths/139.jpg
+140;Theros;140;Chispazo;Instantáneo;R;1;Common;Mike Bierek;http://magiccards.info/scans/en/ths/140.jpg
+141;Theros;141;Oréade puntalanza;Criatura encantamiento - Ninfa 2/2;2R;3;Common;Todd Lockwood;http://magiccards.info/scans/en/ths/141.jpg
+142;Theros;142;Gigante sacudepiedras;Criatura - Gigante 5/4;3RR;5;Uncommon;Lars Grant-West;http://magiccards.info/scans/en/ths/142.jpg
+143;Theros;143;Dragón aliento de tormenta;Criatura - Dragón 4/4;3RR;5;Mythic Rare;Slawomir Maniak;http://magiccards.info/scans/en/ths/143.jpg
+144;Theros;144;Titán del fuego eterno;Criatura - Gigante 5/6;5R;6;Rare;Aleksi Briclot;http://magiccards.info/scans/en/ths/144.jpg
+145;Theros;145;Fuerza titánica;Instantáneo;R;1;Common;Karl Kopinski;http://magiccards.info/scans/en/ths/145.jpg
+146;Theros;146;Cerbero de dos cabezas;Criatura - Perro 1/2;1RR;3;Common;Karl Kopinski;http://magiccards.info/scans/en/ths/146.jpg
+147;Theros;147;Celebrantes salvajes;Criatura - Sátiro 5/3;3RR;5;Common;Igor Kieryluk;http://magiccards.info/scans/en/ths/147.jpg
+148;Theros;148;Agente de los horizontes;Criatura - Bribón humano 3/2;2G;3;Common;Clint Cearley;http://magiccards.info/scans/en/ths/148.jpg
+149;Theros;149;Anthousa, heroína setessana;Criatura legendaria - Guerrero humano 4/5;3GG;5;Rare;Howard Lyon;http://magiccards.info/scans/en/ths/149.jpg
+150;Theros;150;Coloso enramado;Criatura - Gigante 6/6;2GGG;5;Rare;Jaime Jones;http://magiccards.info/scans/en/ths/150.jpg
+151;Theros;151;Lamento del artesano;Instantáneo;3G;4;Uncommon;Jung Park;http://magiccards.info/scans/en/ths/151.jpg
+152;Theros;152;Sátiro de las d divas;Criatura encantamiento - Sátiro 4/2;1GG;3;Rare;Wesley Burt;http://magiccards.info/scans/en/ths/152.jpg
+153;Theros;153;Arco de Nylea;Artefacto encantamiento legendario;1GG;3;Rare;Yeong-Hao Han;http://magiccards.info/scans/en/ths/153.jpg
+154;Theros;154;Maestro de guerra centauro;Criatura - Guerrero centauro 3/3;3GG;5;Uncommon;Kev Walker;http://magiccards.info/scans/en/ths/154.jpg
+155;Theros;155;En comunión con los dioses;Conjuro;1G;2;Common;Aleksi Briclot;http://magiccards.info/scans/en/ths/155.jpg
+156;Theros;156;Defensa del hogar;Instantáneo;1G;2;Common;Raymond Swanland;http://magiccards.info/scans/en/ths/156.jpg
+157;Theros;157;Desvanecerse en la antigüedad;Conjuro;2G;3;Common;Noah Bradley;http://magiccards.info/scans/en/ths/157.jpg
+158;Theros;158;Invocación feral;Encantamiento - Aura;2G;3;Common;Mathias Kollros;http://magiccards.info/scans/en/ths/158.jpg
+159;Theros;159;Cazador cazado;Conjuro;G;1;Uncommon;Ryan Barger;http://magiccards.info/scans/en/ths/159.jpg
+160;Theros;160;Acólita de Karametra;Criatura - Druida humano 1/4;3G;4;Uncommon;Chase Stone;http://magiccards.info/scans/en/ths/160.jpg
+161;Theros;161;Dríada coronarbórea;Criatura encantamiento - Dríada ninfa 2/2;1G;2;Common;Volkan Baga;http://magiccards.info/scans/en/ths/161.jpg
+162;Theros;162;Hidra hendeniebla;Criatura - Hidra 0/0;XG;;Rare;Ryan Pancoast;http://magiccards.info/scans/en/ths/162.jpg
+163;Theros;163;Némesis de los mortales;Criatura - Víbora 5/5;4GG;6;Uncommon;Mathias Kollros;http://magiccards.info/scans/en/ths/163.jpg
+164;Theros;164;Áspid nessiano;Criatura - Víbora 4/5;4G;5;Common;Alex Horley-Orlandelli;http://magiccards.info/scans/en/ths/164.jpg
+165;Theros;165;Cazador nessiano;Criatura - Guerrero centauro 3/3;2G;3;Common;Steve Prescott;http://magiccards.info/scans/en/ths/165.jpg
+166;Theros;166;Nylea, diosa de la caza;Criatura encantamiento legendaria - Deidad 6/6;3G;4;Mythic Rare;Chris Rahn;http://magiccards.info/scans/en/ths/166.jpg
+167;Theros;167;Discípula de Nylea;Criatura - Arquero centauro 3/3;2GG;4;Common;Trevor Claxton;http://magiccards.info/scans/en/ths/167.jpg
+168;Theros;168;Emisaria de Nylea;Criatura encantamiento - Felino 3/3;3G;4;Uncommon;Sam Burley;http://magiccards.info/scans/en/ths/168.jpg
+169;Theros;169;Presencia de Nylea;Encantamiento - Aura;1G;2;Common;Ralph Horsley;http://magiccards.info/scans/en/ths/169.jpg
+170;Theros;170;Ordalía de Nylea;Encantamiento - Aura;1G;2;Uncommon;David Palumbo;http://magiccards.info/scans/en/ths/170.jpg
+171;Theros;171;Centauros del clan Feres;Criatura - Guerrero centauro 3/7;4G;5;Common;Mark Winters;http://magiccards.info/scans/en/ths/171.jpg
+172;Theros;172;Polukranos, el devoramundos;Criatura legendaria - Hidra 5/5;2GG;4;Mythic Rare;Johann Bodin;http://magiccards.info/scans/en/ths/172.jpg
+173;Theros;173;Cazador reverente;Criatura - Arquero humano 1/1;2G;3;Rare;Wesley Burt;http://magiccards.info/scans/en/ths/173.jpg
+174;Theros;174;Sátiro hedonista;Criatura - Sátiro 2/1;1G;2;Common;Chase Stone;http://magiccards.info/scans/en/ths/174.jpg
+175;Theros;175;Sátiro flautista;Criatura - Bribón s tiro 2/1;2G;3;Uncommon;Christopher Moeller;http://magiccards.info/scans/en/ths/175.jpg
+176;Theros;176;Oleada salvaje;Instantáneo;1G;2;Common;Jasper Sandner;http://magiccards.info/scans/en/ths/176.jpg
+177;Theros;177;Escorpión de los juncos;Criatura - Escorpión 1/1;G;1;Common;John Stanko;http://magiccards.info/scans/en/ths/177.jpg
+178;Theros;178;Vientos huracanados;Instantáneo;2G;3;Common;Christopher Moeller;http://magiccards.info/scans/en/ths/178.jpg
+179;Theros;179;Guerrera acérrima;Criatura - Guerrero humano 2/2;3G;4;Common;Greg Staples;http://magiccards.info/scans/en/ths/179.jpg
+180;Theros;180;Cariátide silvana;Criatura - Planta 0/3;1G;2;Rare;Chase Stone;http://magiccards.info/scans/en/ths/180.jpg
+181;Theros;181;Hora de cenar;Conjuro;2G;3;Common;Wayne Reynolds;http://magiccards.info/scans/en/ths/181.jpg
+182;Theros;182;Sátiro viajero;Criatura - Druida s tiro 1/2;1G;2;Common;Tyler Jacobson;http://magiccards.info/scans/en/ths/182.jpg
+183;Theros;183;Goliat vulpino;Criatura - Zorro 6/5;4GG;6;Common;Adam Paquette;http://magiccards.info/scans/en/ths/183.jpg
+184;Theros;184;La lección de los guerreros;Instantáneo;G;1;Uncommon;Steve Prescott;http://magiccards.info/scans/en/ths/184.jpg
+185;Theros;185;Hoplita akroniense;Criatura - Soldado humano 1/2;WR;2;Uncommon;Igor Kieryluk;http://magiccards.info/scans/en/ths/185.jpg
+186;Theros;186;Anax - Cymeda;Criatura legendaria - Soldado humano 3/2;1WR;3;Rare;Willian Murai;http://magiccards.info/scans/en/ths/186.jpg
+187;Theros;187;Jinete cinérea;Criatura - Arconte 5/5;4WWBB;8;Mythic Rare;Chris Rahn;http://magiccards.info/scans/en/ths/187.jpg
+188;Theros;188;Ashiok, urdidor de pesadillas;Planeswalker - Ashiok (Loyalty: 3);1UB;3;Mythic Rare;Karla Ortiz;http://magiccards.info/scans/en/ths/188.jpg
+189;Theros;189;Hoplita batallasagaz;Criatura - Soldado humano 2/2;WU;2;Uncommon;Willian Murai;http://magiccards.info/scans/en/ths/189.jpg
+190;Theros;190;Cronista de los héroes;Criatura - Hechicero centauro 3/3;1WG;3;Uncommon;John Stanko;http://magiccards.info/scans/en/ths/190.jpg
+191;Theros;191;Daxos de Meletis;Criatura legendaria - Soldado humano 2/2;1WU;3;Rare;Karla Ortiz;http://magiccards.info/scans/en/ths/191.jpg
+192;Theros;192;Bacanal de destrucción;Instantáneo;RG;2;Uncommon;Kev Walker;http://magiccards.info/scans/en/ths/192.jpg
+193;Theros;193;León melena de lana;Criatura - Felino 3/3;WG;2;Rare;Slawomir Maniak;http://magiccards.info/scans/en/ths/193.jpg
+194;Theros;194;Quimera del horizonte;Criatura - Quimera 3/2;2UG;4;Uncommon;Sam Burley;http://magiccards.info/scans/en/ths/194.jpg
+195;Theros;195;Llamaguerra de Kragma;Criatura - Guerrero minotauro 2/3;3BR;5;Uncommon;Gabor Szikszai;http://magiccards.info/scans/en/ths/195.jpg
+196;Theros;196;Medomai, el inmortal;Criatura legendaria - Esfinge 4/4;4WU;6;Mythic Rare;David Palumbo;http://magiccards.info/scans/en/ths/196.jpg
+197;Theros;197;Resucitadora de Farika;Criatura - Gorgona 4/3;3BG;5;Uncommon;Peter Mohrbacher;http://magiccards.info/scans/en/ths/197.jpg
+198;Theros;198;Aplastapolis;Criatura - Cíclope 4/4;2RG;4;Rare;Chase Stone;http://magiccards.info/scans/en/ths/198.jpg
+199;Theros;199;Profeta de Krufix;Criatura - Hechicero humano 2/3;3UG;5;Rare;Winona Nelson;http://magiccards.info/scans/en/ths/199.jpg
+200;Theros;200;Intrusión psíquica;Conjuro;3UB;5;Rare;Jaime Jones;http://magiccards.info/scans/en/ths/200.jpg
+201;Theros;201;Segadora de lo salvaje;Criatura - Gorgona 4/5;2BG;4;Rare;Karl Kopinski;http://magiccards.info/scans/en/ths/201.jpg
+202;Theros;202;Centinela del Inframundo;Criatura - Esqueleto grifo 3/3;3WB;5;Uncommon;Dave Kendall;http://magiccards.info/scans/en/ths/202.jpg
+203;Theros;203;Sirena de naufragios;Criatura - Sirena 1/2;UB;2;Uncommon;Daarken;http://magiccards.info/scans/en/ths/203.jpg
+204;Theros;204;Quimera almahechizada;Criatura - Quimera */3;1UR;3;Uncommon;Svetlin Velinov;http://magiccards.info/scans/en/ths/204.jpg
+205;Theros;205;Augurio de vapor;Instantáneo;2UR;4;Rare;Dave Kendall;http://magiccards.info/scans/en/ths/205.jpg
+206;Theros;206;Las Moiras;Criatura legendaria - Hechicero humano 3/3;2WB;4;Rare;Daarken;http://magiccards.info/scans/en/ths/206.jpg
+207;Theros;207;Tymaret, el rey asesino;Criatura legendaria - Guerrero zombie 2/2;BR;2;Rare;Volkan Baga;http://magiccards.info/scans/en/ths/207.jpg
+208;Theros;208;Cerbero del Inframundo;Criatura - Perro 6/6;3BR;5;Mythic Rare;Svetlin Velinov;http://magiccards.info/scans/en/ths/208.jpg
+209;Theros;209;Xenagos, el juerguista;Planeswalker - Xenagos (Loyalty: 3);2RG;4;Mythic Rare;Jason Chan;http://magiccards.info/scans/en/ths/209.jpg
+210;Theros;210;Caballo akroniense;Criatura artefacto - Caballo 0/4;4;4;Rare;Seb McKinnon;http://magiccards.info/scans/en/ths/210.jpg
+211;Theros;211;Rapaz de metal forjado;Criatura artefacto - Ave 2/1;4;4;Uncommon;James Zapata;http://magiccards.info/scans/en/ths/211.jpg
+212;Theros;212;Marta de bronce;Criatura artefacto - Marta 2/1;2;2;Common;Jasper Sandner;http://magiccards.info/scans/en/ths/212.jpg
+213;Theros;213;Venado bruñido;Criatura artefacto - Alce 2/2;3;3;Uncommon;Yeong-Hao Han;http://magiccards.info/scans/en/ths/213.jpg
+214;Theros;214;Coloso de Akros;Criatura artefacto - Gólem 10/10;8;8;Rare;Zack Stella;http://magiccards.info/scans/en/ths/214.jpg
+215;Theros;215;Rueda flamígera;Artefacto;1;1;Uncommon;Jasper Sandner;http://magiccards.info/scans/en/ths/215.jpg
+216;Theros;216;Sandalias de pluma veloz;Artefacto - Equipo;2;2;Common;Steve Prescott;http://magiccards.info/scans/en/ths/216.jpg
+217;Theros;217;Guardianes de Meletis;Criatura artefacto - Gólem 0/6;3;3;Common;Magali Villeneuve;http://magiccards.info/scans/en/ths/217.jpg
+218;Theros;218;Unicornio de opalina;Criatura artefacto - Unicornio 1/2;3;3;Common;Christine Choi;http://magiccards.info/scans/en/ths/218.jpg
+219;Theros;219;Yelmo de rondador;Artefacto - Equipo;2;2;Uncommon;Igor Kieryluk;http://magiccards.info/scans/en/ths/219.jpg
+220;Theros;220;Pyxis del pandemónium;Artefacto;1;1;Rare;David Palumbo;http://magiccards.info/scans/en/ths/220.jpg
+221;Theros;221;Amuleto del viajero;Artefacto;1;1;Common;Franz Vohwinkel;http://magiccards.info/scans/en/ths/221.jpg
+222;Theros;222;Ojo de las Grayas;Artefacto - Equipo;1;1;Uncommon;Daniel Ljunggren;http://magiccards.info/scans/en/ths/222.jpg
+223;Theros;223;Nyktos, altar de Nyx;Tierra legendaria;;;Rare;Jung Park;http://magiccards.info/scans/en/ths/223.jpg
+224;Theros;224;Templo del abandono;Tierra;;;Rare;Mike Bierek;http://magiccards.info/scans/en/ths/224.jpg
+225;Theros;225;Templo del engaño;Tierra;;;Rare;Raymond Swanland;http://magiccards.info/scans/en/ths/225.jpg
+226;Theros;226;Templo del misterio;Tierra;;;Rare;Noah Bradley;http://magiccards.info/scans/en/ths/226.jpg
+227;Theros;227;Templo del silencio;Tierra;;;Rare;Karl Kopinski;http://magiccards.info/scans/en/ths/227.jpg
+228;Theros;228;Templo del triunfo;Tierra;;;Rare;Jason Felix;http://magiccards.info/scans/en/ths/228.jpg
+229;Theros;229;Costas desconocidas;Tierra;;;Common;Seb McKinnon;http://magiccards.info/scans/en/ths/229.jpg
+230;Theros;230;Llanura;Tierra básica - Llanura;;;Land;Rob Alexander;http://magiccards.info/scans/en/ths/230.jpg
+231;Theros;231;Llanura;Tierra básica - Llanura;;;Land;Steven Belledin;http://magiccards.info/scans/en/ths/231.jpg
+232;Theros;232;Llanura;Tierra básica - Llanura;;;Land;Adam Paquette;http://magiccards.info/scans/en/ths/232.jpg
+233;Theros;233;Llanura;Tierra básica - Llanura;;;Land;Raoul Vitale;http://magiccards.info/scans/en/ths/233.jpg
+234;Theros;234;Isla;Tierra básica - Isla;;;Land;Rob Alexander;http://magiccards.info/scans/en/ths/234.jpg
+235;Theros;235;Isla;Tierra básica - Isla;;;Land;Steven Belledin;http://magiccards.info/scans/en/ths/235.jpg
+236;Theros;236;Isla;Tierra básica - Isla;;;Land;Adam Paquette;http://magiccards.info/scans/en/ths/236.jpg
+237;Theros;237;Isla;Tierra básica - Isla;;;Land;Raoul Vitale;http://magiccards.info/scans/en/ths/237.jpg
+238;Theros;238;Pantano;Tierra básica - Pantano;;;Land;Rob Alexander;http://magiccards.info/scans/en/ths/238.jpg
+239;Theros;239;Pantano;Tierra básica - Pantano;;;Land;Steven Belledin;http://magiccards.info/scans/en/ths/239.jpg
+240;Theros;240;Pantano;Tierra básica - Pantano;;;Land;Adam Paquette;http://magiccards.info/scans/en/ths/240.jpg
+241;Theros;241;Pantano;Tierra básica - Pantano;;;Land;Raoul Vitale;http://magiccards.info/scans/en/ths/241.jpg
+242;Theros;242;Montaña;Tierra básica - Montaña;;;Land;Rob Alexander;http://magiccards.info/scans/en/ths/242.jpg
+243;Theros;243;Montaña;Tierra básica - Montaña;;;Land;Steven Belledin;http://magiccards.info/scans/en/ths/243.jpg
+244;Theros;244;Montaña;Tierra básica - Montaña;;;Land;Adam Paquette;http://magiccards.info/scans/en/ths/244.jpg
+245;Theros;245;Montaña;Tierra básica - Montaña;;;Land;Raoul Vitale;http://magiccards.info/scans/en/ths/245.jpg
+246;Theros;246;Bosque;Tierra básica - Bosque;;;Land;Rob Alexander;http://magiccards.info/scans/en/ths/246.jpg
+247;Theros;247;Bosque;Tierra básica - Bosque;;;Land;Steven Belledin;http://magiccards.info/scans/en/ths/247.jpg
+248;Theros;248;Bosque;Tierra básica - Bosque;;;Land;Adam Paquette;http://magiccards.info/scans/en/ths/248.jpg
+249;Theros;249;Bosque;Tierra básica - Bosque;;;Land;Raoul Vitale;http://magiccards.info/scans/en/ths/249.jpg

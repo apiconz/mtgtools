@@ -3,6 +3,7 @@ package pe.apiconz.apps.mtgtools;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class CardDetailActivity extends Activity {
@@ -10,6 +11,8 @@ public class CardDetailActivity extends Activity {
 	TextView txtDetailName, txtDetailMana, txtDetailType, txtDetailText,
 			txtDetailExpansion, txtDetailNumber, txtDetailRarity,
 			txtDetailArtist;
+	
+	ImageView imgCardImage;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +35,7 @@ public class CardDetailActivity extends Activity {
 		txtDetailNumber = (TextView) findViewById(R.id.txtDetailNumber);
 		txtDetailRarity = (TextView) findViewById(R.id.txtDetailRarity);
 		txtDetailArtist = (TextView) findViewById(R.id.txtDetailArtist);
+		imgCardImage = (ImageView) findViewById(R.id.imgCard);
 
 		txtDetailName.setText(card.cardName);
 		txtDetailMana.setText(card.cardMana);
@@ -41,6 +45,8 @@ public class CardDetailActivity extends Activity {
 		txtDetailNumber.setText(cardNumber);
 		txtDetailRarity.setText(card.cardRarity);
 		txtDetailArtist.setText(card.cardArtist);
+		imgCardImage.setTag(card.cardUrl);
+		new DownloadImageTask(imgCardImage).execute(card.cardUrl);
 
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 

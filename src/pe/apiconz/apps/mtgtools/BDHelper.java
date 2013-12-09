@@ -16,15 +16,16 @@ import android.widget.Toast;
 
 public class BDHelper extends SQLiteOpenHelper {
 
+	private static final int SCHEMA_VERSION = 3;
 	private Context myContext;
 	private static String DB_PATH = "";
 	private static String DB_NAME = "mtgtools.sqlite";
 	public SQLiteDatabase sqLiteDatabase;
 	private static final String TAG = "BDHelper";
 	String tableName = "table_card";
-	
+
 	public BDHelper(Context context) {
-		super(context, DB_NAME, null, 1);
+		super(context, DB_NAME, null, SCHEMA_VERSION);
 		this.myContext = context;
 		DB_PATH = context.getApplicationInfo().dataDir + "/databases/";
 		boolean isDatabaseExist = checkDatabase();
@@ -40,7 +41,7 @@ public class BDHelper extends SQLiteOpenHelper {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-			Toast.makeText(context, "Initial database is created",
+			Toast.makeText(context, "Se ha creado la base de datos",
 					Toast.LENGTH_LONG).show();
 
 		}
@@ -88,7 +89,24 @@ public class BDHelper extends SQLiteOpenHelper {
 
 	@Override
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-		// TODO Auto-generated method stub
+		if (SCHEMA_VERSION == newVersion) {
+			Log.i(TAG,
+					"Detectó la nueva versión y se procederá a actualizar la BD");
+		}
+
+		if (newVersion > oldVersion) {
+			try {
+				this.getWritableDatabase();
+				copyDatabase();
+				this.close();
+			} catch (IOException e) {
+				Log.e(TAG,
+						"Se produjo un error durante la actualización de la base de datos",
+						e);
+			}
+			Toast.makeText(this.myContext, "Se ha actualizado la base de datos",
+					Toast.LENGTH_LONG).show();
+		}
 
 	}
 
@@ -117,13 +135,14 @@ public class BDHelper extends SQLiteOpenHelper {
 	}
 
 	public Card getDetailsOfCard(String cardNumber) {
-		String selectQuery = "SELECT card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition FROM " + tableName + " WHERE card_number = ?";
+		String selectQuery = "SELECT card_number,card_title,card_type,card_mana,card_rarity,card_artist,card_edition, card_image_url FROM "
+				+ tableName + " WHERE card_number = ?";
 		this.getReadableDatabase();
-		String[] arguments = new String[]{cardNumber};
+		String[] arguments = new String[] { cardNumber };
 		Cursor cursor = sqLiteDatabase.rawQuery(selectQuery, arguments);
 
 		Card card = new Card();
-		if(cursor.moveToFirst()){
+		if (cursor.moveToFirst()) {
 			card.cardNumber = cursor.getInt(0);
 			card.cardName = cursor.getString(1);
 			card.cardType = cursor.getString(2);
@@ -131,6 +150,7 @@ public class BDHelper extends SQLiteOpenHelper {
 			card.cardRarity = cursor.getString(4);
 			card.cardArtist = cursor.getString(5);
 			card.cardEdition = cursor.getString(6);
+			card.cardUrl = cursor.getString(7);
 		}
 		sqLiteDatabase.close();
 		return card;
