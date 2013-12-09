@@ -13,6 +13,11 @@
 	 <string name="card_detail_number">Número de Carta</string>
 	 <string name="card_detail_artist">Artista</string>
 	 <string name="card_detail_rarity">Rareza</string>
-	 <string name="card_detail_expansion">Expansión</string>   
-    
+	 <string name="card_detail_expansion">Expansión</string>
+
+    <string name="aboutme_title">MTG Tools 0.7</string>
+    <string name="aboutme_msg">Gracias por emplear MTG Tools, si tuvieras alguna consulta o sugerencia o error que presentar no dudes en escribirnos</string>
+    <string name="aboutme_link">http://apiconz.blogspot.com</string>
+    <string name="aboutme_disclaimer">©2013 Wizards of the Coast LLC. Wizards of the Coast, Magic: The Gathering, Duels of the Planeswalkers y sus respectivos logos son marcas registradas de Wizards of the Coast LLC en los Estados Unidos y otros países.</string>
+
 </resources>
