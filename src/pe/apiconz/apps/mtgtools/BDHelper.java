@@ -32,12 +32,13 @@ public class BDHelper extends SQLiteOpenHelper {
 
 		if (isDatabaseExist) {
 			openDatabase();
+			close();
 		} else {
 			Log.i(TAG, "Se creará la base de datos");
 			try {
 				createDatabase();
-				this.close();
 				openDatabase();
+				close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -98,14 +99,15 @@ public class BDHelper extends SQLiteOpenHelper {
 			try {
 				this.getWritableDatabase();
 				copyDatabase();
-				this.close();
+				close();
 			} catch (IOException e) {
 				Log.e(TAG,
 						"Se produjo un error durante la actualización de la base de datos",
 						e);
 			}
-			Toast.makeText(this.myContext, "Se ha actualizado la base de datos",
-					Toast.LENGTH_LONG).show();
+			Toast.makeText(this.myContext,
+					"Se ha actualizado la base de datos", Toast.LENGTH_LONG)
+					.show();
 		}
 
 	}
@@ -130,7 +132,12 @@ public class BDHelper extends SQLiteOpenHelper {
 
 			} while (cursor.moveToNext());
 		}
-		sqLiteDatabase.close();
+
+		if (cursor != null) {
+			cursor.close();
+		}
+
+		close();
 		return listCard;
 	}
 
@@ -152,7 +159,13 @@ public class BDHelper extends SQLiteOpenHelper {
 			card.cardEdition = cursor.getString(6);
 			card.cardUrl = cursor.getString(7);
 		}
-		sqLiteDatabase.close();
+
+		if (cursor != null) {
+			cursor.close();
+		}
+
+		close();
+
 		return card;
 	}
 }
