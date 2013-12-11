@@ -3,7 +3,7 @@
     package="pe.apiconz.apps.mtgtools"
     android:versionCode="1"
     android:versionName="1.0" >
- 
+
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="18" />
@@ -31,26 +31,34 @@
             android:name="pe.apiconz.apps.mtgtools.CardListActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pe.apiconz.apps.mtgtools.MenuActivity" />
         </activity>
         <activity
-            android:name="pe.apiconz.apps.mtgtools.MainActivity"
+            android:name="pe.apiconz.apps.mtgtools.MenuActivity"
             android:label="@string/app_name" >
         </activity>
         <activity
-            android:name="pe.apiconz.apps.mtgtools.CardDetailActivity"
-            android:label="@string/app_name"
-            android:parentActivityName="pe.apiconz.apps.mtgtools.MainActivity" >
+            android:name="pe.apiconz.apps.mtgtools.CounterActivity"
+            android:label="@string/app_name" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="pe.apiconz.apps.mtgtools.MainActivity" />
+                android:value="pe.apiconz.apps.mtgtools.MenuActivity" />
+        </activity>
+        <activity
+            android:name="pe.apiconz.apps.mtgtools.CardDetailActivity"
+            android:label="@string/app_name" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pe.apiconz.apps.mtgtools.CardListActivity" />
         </activity>
         <activity
             android:name="pe.apiconz.apps.mtgtools.AboutMeActivity"
-            android:label="@string/app_name"
-            android:parentActivityName="pe.apiconz.apps.mtgtools.MainActivity" >
+            android:label="@string/app_name" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="pe.apiconz.apps.mtgtools.MainActivity" />
+                android:value="pe.apiconz.apps.mtgtools.MenuActivity" />
         </activity>
     </application>
 

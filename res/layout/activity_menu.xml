@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="#fff" android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center" android:padding="10dip">
+
+        <ImageButton
+            android:id="@+id/imgBtnCardList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/cards_button"  />
+
+        <ImageButton
+            android:id="@+id/imgBtnDice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/dice_button" />
+    </LinearLayout>
+
+</LinearLayout>
