@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 bin/
 gen/
 =======
@@ -31,4 +30,4 @@ proguard/
 *.ipr
 *.iws
 .idea/
->>>>>>> ced6b39e9553d3195041d506b3539e5eef2ef425
+

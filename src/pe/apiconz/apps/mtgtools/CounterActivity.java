@@ -3,7 +3,6 @@ package pe.apiconz.apps.mtgtools;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.NumberPicker;
-import android.widget.Toast;
 
 public class CounterActivity extends Activity {
 	@Override
@@ -13,17 +12,23 @@ public class CounterActivity extends Activity {
 
 		NumberPicker numberPicker = (NumberPicker) findViewById(R.id.numberPicker1);
 
-		numberPicker.setMinValue(-50);
-		numberPicker.setMaxValue(50);
-		numberPicker.setWrapSelectorWheel(true);
-		numberPicker.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
-			
-			@Override
-			public void onValueChange(NumberPicker picker, int oldVal, int newVal) {
+		String[] numberArray = new String[60];
 
-				Toast.makeText(getBaseContext(), "Viejo valor:" + oldVal + " - Nuevo valor: " + newVal, Toast.LENGTH_LONG).show();
-			}
-		});
-		
+		populateNumberArray(numberArray);
+
+		numberPicker.setMinValue(0);
+		numberPicker.setMaxValue(numberArray.length - 1);
+		numberPicker.setDisplayedValues(numberArray);
+		numberPicker.setValue(40);
+
+	}
+
+	private void populateNumberArray(String[] numberArray) {
+		int count = -20;
+
+		for (int i = 0; i < numberArray.length; i++) {
+			numberArray[i] = "" + count;
+			count++;
+		}
 	}
 }
