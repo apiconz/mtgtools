@@ -20,9 +20,13 @@ public class CounterActivity extends Activity {
 		numberPicker.setMaxValue(numberArray.length - 1);
 		numberPicker.setDisplayedValues(numberArray);
 		numberPicker.setValue(40);
-		numberPicker.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
+		numberPicker
+				.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
+
+		getActionBar().setDisplayHomeAsUpEnabled(true);
 		
 	}
+	
 
 	private void populateNumberArray(String[] numberArray) {
 		int count = -20;

@@ -36,17 +36,14 @@ public class CardListActivity extends ListActivity implements
 
 		ListCardAdapter listCardAdapter = new ListCardAdapter(this, listCard);
 		setListAdapter(listCardAdapter);
+
+		getActionBar().setDisplayHomeAsUpEnabled(true);
 	}
 
 	@Override
 	protected void onListItemClick(ListView l, View v, int position, long id) {
-		Toast.makeText(this, "Clicked row " + position, Toast.LENGTH_SHORT)
-				.show();
 
 		TextView txtCardNumber = (TextView) v.findViewById(R.id.txtCardNumber);
-
-		Toast.makeText(this, "Valor de la carta " + txtCardNumber.getText(),
-				Toast.LENGTH_SHORT).show();
 
 		Intent intent = new Intent(getBaseContext(), CardDetailActivity.class);
 		intent.putExtra("cardNumber", txtCardNumber.getText());
@@ -56,7 +53,7 @@ public class CardListActivity extends ListActivity implements
 
 	@Override
 	public void onItemClick(AdapterView parent, View v, int arg2, long arg3) {
-
+		//TODO Veamos
 	}
 
 	@Override
@@ -66,20 +63,20 @@ public class CardListActivity extends ListActivity implements
 		inflater.inflate(R.menu.main, menu);
 		return super.onCreateOptionsMenu(menu);
 	}
-	
-@Override
-public boolean onOptionsItemSelected(MenuItem item) {
 
-	switch (item.getItemId()) {
-	case R.id.action_aboutme:
-		Intent intent = new Intent(getBaseContext(),AboutMeActivity.class);
-		startActivity(intent);
-		break;
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
 
-	default:
-		break;
+		switch (item.getItemId()) {
+		case R.id.action_aboutme:
+			Intent intent = new Intent(getBaseContext(), AboutMeActivity.class);
+			startActivity(intent);
+			break;
+
+		default:
+			break;
+		}
+
+		return super.onOptionsItemSelected(item);
 	}
-	
-	return super.onOptionsItemSelected(item);
-}
 }
