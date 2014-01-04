@@ -20,7 +20,8 @@ public class CounterActivity extends Activity {
 		numberPicker.setMaxValue(numberArray.length - 1);
 		numberPicker.setDisplayedValues(numberArray);
 		numberPicker.setValue(40);
-
+		numberPicker.setDescendantFocusability(NumberPicker.FOCUS_BLOCK_DESCENDANTS);
+		
 	}
 
 	private void populateNumberArray(String[] numberArray) {
